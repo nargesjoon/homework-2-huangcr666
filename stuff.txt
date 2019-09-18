@@ -1,2 +1,5 @@
-do   rey me    fa   so   la  ti    do
-one  two three four five six seven eight
+size:  1655 	 file:  ./README.md
+size:  1063 	 file:  ./LICENSE
+size:  448 	 file:  ./largest_five.sh
+size:  211 	 file:  ./count_files_and_subdirs.sh
+size:  154 	 file:  ./temperature.sh
