@@ -1,5 +1,5 @@
 #!/bin/bash
-lallalaalla
+lallalaallaqqq
 echo "Please enter temperatrue in Fahrenheit:"
 read f
 c=$(echo "scale=3;(5/9)*($f-32)"|bc)
